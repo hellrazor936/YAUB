@@ -157,7 +157,11 @@ Statte sie mit RGB-LEDs aus, um sie hübsch und sinnlos zu machen.
 Warum nicht? Manchmal ist das Leben am schönsten, wenn es keinen Zweck hat.
 
 Disclaimer: Die Useless Box ist NICHT nutzlos genug, um dein Leben vollständig zu ruinieren. Für ernsthafte Sinnlosigkeit empfehlen wir Steuererklärungen.
-
+### Troubleshoot
+ * an Usb hängen und log ansehen (https://web.esphome.io/)
+ * mit Home Assistant verbinden & das log ansehen
+ * Servo Stromverworgung, Ansteuerung oder Servo defekt: wenn der servo nicht mehr fest hält und "entspannt" ist
+ * Schalter Verbindung wenn Schalteränderungen keinen Logeintrag erzeugen
 ### Und das wurde nun doch tatsächlich Realisiert mit
  * https://www.youtube.com/watch?v=-SJbdPvgQnE
  * https://www.printables.com/model/665030-useless-box
