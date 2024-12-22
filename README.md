@@ -160,7 +160,7 @@ Disclaimer: Die Useless Box ist NICHT nutzlos genug, um dein Leben vollständig 
 ### Troubleshoot
  * an Usb hängen und log ansehen (https://web.esphome.io/)
  * mit Home Assistant verbinden & das log ansehen
- * Servo Stromverworgung, Ansteuerung oder Servo defekt: wenn der servo nicht mehr fest hält und "entspannt" ist
+ * Servo Stromversorgung, Ansteuerung oder Servo defekt: wenn der servo nicht mehr fest hält und "entspannt" ist
  * Schalter Verbindung wenn Schalteränderungen keinen Logeintrag erzeugen
 ### Und das wurde nun doch tatsächlich Realisiert mit
  * https://www.youtube.com/watch?v=-SJbdPvgQnE
